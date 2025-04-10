@@ -1,4 +1,4 @@
-# MHAT-Fire-Federated-Learning
+# Federated Learning under Model and Data Heterogeneity
 # Federated Learning Experiments with Flower
 
 This repository demonstrates how federated learning can be applied using the Flower framework to two different use cases:
